@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "もう一度",
+  "base_artist": "Ateen",
+  "createdAt": "2026-02-10T05:58:30.830165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もう一度",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/01_もう一度_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もう一度、初めから",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/02_もう一度、初めから_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もう一度 ~One more time~",
+      "artist": "CHIHIRO",
+      "has_synced": true,
+      "path": "select/03_もう一度_~One_more_time~_CHIHIRO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もう一度～One more time～",
+      "artist": "CHIHIRO",
+      "has_synced": true,
+      "path": "select/04_もう一度~One_more_time~_CHIHIRO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もう一度",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/05_もう一度_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "もう一度",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/06_もう一度_竹内まりや.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "もう一度 - Mouichido",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/07_もう一度_-_Mouichido_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "もう一度",
+      "artist": "Takeuchi, Mariya",
+      "has_synced": false,
+      "path": "select/08_もう一度_Takeuchi,_Mariya.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "もう一度",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/09_もう一度_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "もう一度",
+      "artist": "もさを。",
+      "has_synced": true,
+      "path": "select/10_もう一度_もさを。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "もう一度…",
+      "artist": "童子-T feat. BENI",
+      "has_synced": false,
+      "path": "select/11_もう一度..._童子-T_feat._BENI.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "あの頃に もう一度",
+      "artist": "Yu Hayami",
+      "has_synced": false,
+      "path": "select/12_あの頃に_もう一度_Yu_Hayami.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "もう一度…",
+      "artist": "童子-T",
+      "has_synced": false,
+      "path": "select/13_もう一度..._童子-T.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう一度",
+      "artist": "Ateen",
+      "has_synced": false,
+      "path": "select/pl_01_もう一度_Ateen.txt"
+    }
+  ]
+}
